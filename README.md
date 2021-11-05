@@ -26,5 +26,7 @@ and my next challenge was in outcomes based on goal, using countifs() function t
 
 ## Results
 -about the Theater outcomes based on launch date, according to pivot table we can see we have the maximum projects in May, June and July which seems the best time for Theater projects and we have the most successful projects which is great.
+
 -about the Outcomes based on Goals, by reviewing the chart we can see the difference of total projects in different goal amount ranges, as we're increasing dollar amount ranges total projects are going down and we have the most successful projects in the less goal dollar amount, and by increasing goal dollar amount failed projects are going over successful projects.
+
 -in dataset we are so limited bacause of the data size otherwise we could have more tables and charts to compare them and have more accurate results and a better understanding. in second chart outcome based on goals if we could have another chart based on numbers of projects we could have a better vision about the result.
